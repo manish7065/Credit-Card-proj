@@ -4,3 +4,4 @@ ipykernel
 xlrd
 seaborn
 scikit-learn
+dill    
